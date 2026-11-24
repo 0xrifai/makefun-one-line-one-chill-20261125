@@ -1,17 +1,18 @@
 // One Line, One Chill — make.fun entry
 // Writes a single sentence of horror to /output/entry.txt.
 //
-// The line: an ultrasound, two heartbeats, and a doctor's smile.
-// The scare is what the sentence withholds — what is the second
-// heartbeat, and why does the doctor already know?
+// The line: new neighbours, my name, and a smile that says the
+// rehearsal is nearly over. The scare is what the sentence
+// withholds — what happens when they stop practicing?
 
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
-  "The ultrasound showed two heartbeats, and the doctor smiled and said only one of them was mine.";
+  "The new neighbors introduced themselves by my name, and when I corrected them, they smiled and said they were only practicing.";
 
 // The gate allows 1–200 characters. Keep the line well inside it:
-// a single sentence, one breath, no room for a second scare.
+// a single sentence, one breath, its rhythm rising through the
+// correction and the smile, and the last word landing the blow.
 if (line.length > 195) {
   throw new Error(`entry line too long: ${line.length} characters`);
 }

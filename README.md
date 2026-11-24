@@ -9,22 +9,24 @@ A make.fun entry for **One Line, One Chill**: one sentence of horror, under
 
 ## The line
 
-> The ultrasound showed two heartbeats, and the doctor smiled and said only one of them was mine.
+> The new neighbors introduced themselves by my name, and when I corrected them, they smiled and said they were only practicing.
 
-The scare is what the sentence withholds. Two heartbeats on the screen, a
-doctor who already knows, and a smile that says this is not the first time.
-No gore, no mirror, no doll, no basement — just a routine appointment that
-stops being routine in the last word.
+The scare is what the sentence withholds. New neighbours who already
+know your name, a correction that changes nothing, and a smile that
+says the rehearsal is nearly over. No gore, no mirror, no doll, no
+basement — just a front-door introduction that stops being ordinary
+in the last word.
 
 ## Why this line
 
 A good one-line fright earns its dread instead of announcing it. This one
-builds on three small, concrete details — the ultrasound screen, the count
-of two, the doctor's smile — and lets the reader do the frightening work
-after the sentence ends: whose is the second heartbeat, and what does the
-doctor know that the patient does not? The sentence is a single breath
-long, its rhythm rises through the count and the smile, and the last word
-(`mine`) lands the blow by narrowing the horror down to one person.
+builds on three small, concrete details — the introduction, the name, the
+smile — and lets the reader do the frightening work after the sentence
+ends: who are these neighbours really rehearsing to be, and what happens
+when the practice is over? The sentence is a single breath long, its
+rhythm rises through the correction and the smile, and the last word
+(`practicing`) lands the blow by turning a friendly hello into a
+countdown.
 
 ## How it works
 
